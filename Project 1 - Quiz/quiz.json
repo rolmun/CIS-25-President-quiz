@@ -1,0 +1,257 @@
+[
+ {
+  "text": "Which President was unanimously elected from 1732-1799?",
+  "options": [
+   "George Washington",
+   "John Adams",
+   "Thomas Jefferson",
+   "James Madison"
+  ],
+  "answer": "George Washington"
+ },
+ {
+  "text": "Who was the only President in US history to hold the job of a hangman?",
+  "options": [
+   "George Washington",
+   "John Adams",
+   "Grover Cleveland",
+   "Abraham Lincoln"
+  ],
+  "answer": "Grover Cleveland"
+ },
+ {
+  "text": "Who was the only tailor ever to be President?",
+  "options": [
+   "Thomas Jefferson",
+   "James Madison",
+   "Andrew Johnson",
+   "John F. Kennedy"
+  ],
+  "answer": "Andrew Johnson"
+ },
+ {
+  "text": "Which President never lived in the White House?",
+  "options": [
+   "George Washington",
+   "John Adams",
+   "Thomas Jefferson",
+   "James Madison"
+  ],
+  "answer": "George Washington"
+ },
+ {
+  "text": "Which President never represented a political party?",
+  "options": [
+   "George Washington",
+   "John Adams",
+   "Thomas Jefferson",
+   "James Madison"
+  ],
+  "answer": "George Washington"
+ },
+ {
+  "text": "Who was the first president to be inaugurated in Washington DC?",
+  "options": [
+   "Thomas Jefferson",
+   "James Madison",
+   "John Quincy Adams",
+   "Andrew Jackson"
+  ],
+  "answer": "Thomas Jefferson"
+ },
+ {
+  "text": "Who was the only President to be elected for two non-consecutive terms?",
+  "options": [
+   "Andrew Johnson",
+   "Theodore Roosevelt",
+   "Grover Cleveland",
+   "Woodrow Wilson"
+  ],
+  "answer": "Grover Cleveland"
+ },
+ {
+  "text": "Name the first US President born in the United States, after the American Revolution.",
+  "options": [
+   "Martin Van Buren",
+   "John Quincy Adams",
+   "James Monroe",
+   "Andrew Jackson"
+  ],
+  "answer": "Martin Van Buren"
+ },
+ {
+  "text": "Who was the only President to serve in both WWI and WWII?",
+  "options": [
+   "Franklin D. Roosevelt",
+   "Harry S. Truman",
+   "Dwight D. Eisenhower",
+   "John F. Kennedy"
+  ],
+  "answer": "Dwight D. Eisenhower"
+ },
+ {
+  "text": "Who was the first ever President to visit all 50 states?",
+  "options": ["Richard Nixon", "Gerald Ford", "Jimmy Carter", "Ronald Reagan"],
+  "answer": "Richard Nixon"
+ },
+ {
+  "text": "Who was the only President to resign?",
+  "options": [
+   "Richard Nixon",
+   "Lyndon B. Johnson",
+   "George W. Bush",
+   "Bill Clinton"
+  ],
+  "answer": "Richard Nixon"
+ },
+ {
+  "text": "Which US President was also a licensed bartender?",
+  "options": [
+   "Abraham Lincoln",
+   "John F. Kennedy",
+   "Ulysses S. Grant",
+   "Lyndon B. Johnson"
+  ],
+  "answer": "Abraham Lincoln"
+ },
+ {
+  "text": "Which four Vice Presidents were elected to President in the next consecutive term?",
+  "options": [
+   "John Adams, Thomas Jefferson, Martin Van Buren, and George H. W. Bush",
+   "Richard Nixon, Gerald Ford, Walter Mondale, and George W. Bush",
+   "John F. Kennedy, Lyndon B. Johnson, Hubert Humphrey, and Al Gore",
+   "Harry S. Truman, Richard Nixon, Lyndon B. Johnson, and GeraldFord"
+  ],
+  "answer": "John Adams, Thomas Jefferson, Martin Van Buren, and George H. W. Bush"
+ },
+ {
+  "text": "Name the only presidential candidate that was not a Mason in the 1860 election.",
+  "options": [
+   "Abraham Lincoln",
+   "Andrew Johnson",
+   "Stephen A. Douglas",
+   "John C. Breckinridge"
+  ],
+  "answer": "Abraham Lincoln"
+ },
+ {
+  "text": "Who was the only President who was a lifelong bachelor?",
+  "options": [
+   "Thomas Jefferson",
+   "James Buchanan",
+   "Andrew Johnson",
+   "Franklin Pierce"
+  ],
+  "answer": "James Buchanan"
+ },
+ {
+  "text": "Who wrote 'The Life and Morals Of Jesus Of Nazareth'?",
+  "options": [
+   "Thomas Jefferson",
+   "John Adams",
+   "James Madison",
+   "Benjamin Franklin"
+  ],
+  "answer": "Thomas Jefferson"
+ },
+ {
+  "text": "Who was the lightest President of the United States?",
+  "options": [
+   "James Madison",
+   "Benjamin Harrison",
+   "William Howard Taft",
+   "John F. Kennedy"
+  ],
+  "answer": "James Madison"
+ },
+ {
+  "text": "Who made the shortest inauguration speech on record, at 133 words and less than two minutes long?",
+  "options": [
+   "George Washington",
+   "Abraham Lincoln",
+   "Thomas Jefferson",
+   "James Madison"
+  ],
+  "answer": "George Washington"
+ },
+ {
+  "text": "Which former United States President holds the record for the longest inauguration speech in history, at 8,578 words long?",
+  "options": [
+   "George Washington",
+   "Abraham Lincoln",
+   "William Henry Harrison",
+   "Woodrow Wilson"
+  ],
+  "answer": "William Henry Harrison"
+ },
+ {
+  "text": "Which President held the shortest Presidency on record?",
+  "options": [
+   "William Henry Harrison",
+   "Abraham Lincoln",
+   "John F. Kennedy",
+   "James A. Garfield"
+  ],
+  "answer": "William Henry Harrison"
+ },
+ {
+  "text": "What was Gerald Rudolph Ford's name before he was adopted?",
+  "options": [
+   "Gerald Ford",
+   "Leslie Lynch King Jr.",
+   "Franklin Roosevelt",
+   "George Bush"
+  ],
+  "answer": "Leslie Lynch King Jr."
+ },
+ {
+  "text": "Who became the youngest President at age 42?",
+  "options": [
+   "Theodore Roosevelt",
+   "John F. Kennedy",
+   "Franklin D. Roosevelt",
+   "Bill Clinton"
+  ],
+  "answer": "Theodore Roosevelt"
+ },
+ {
+  "text": "Which three presidents died on 4 July?",
+  "options": [
+   "Thomas Jefferson, John Adams, and James Monroe",
+   "George Washington, Abraham Lincoln, and Andrew Jackson",
+   "James Madison, John Quincy Adams, and Martin Van Buren",
+   "James Buchanan, Ulysses S. Grant, and Rutherford B. Hayes"
+  ],
+  "answer": "Thomas Jefferson, John Adams, and James Monroe"
+ },
+ {
+  "text": "What does H and W stand for in George H. W. Bush?",
+  "options": [
+   "Henry William",
+   "Harold Wilson",
+   "Herbert Walker",
+   "Harry Walter"
+  ],
+  "answer": "Herbert Walker"
+ },
+ {
+  "text": "Who was the first Southerner elected to the Presidency?",
+  "options": [
+   "Jimmy Carter",
+   "Lyndon B. Johnson",
+   "Bill Clinton",
+   "George W. Bush"
+  ],
+  "answer": "Jimmy Carter"
+ },
+ {
+  "text": "Who was the tallest President?",
+  "options": [
+   "Abraham Lincoln",
+   "George Washington",
+   "Lyndon B. Johnson",
+   "Franklin D. Roosevelt"
+  ],
+  "answer": "Abraham Lincoln"
+ }
+]
